@@ -6,5 +6,3 @@ resources:
   - deploy/role.yaml
   - deploy/role_binding.yaml
   - deploy/operator.yaml
-  - deploy/cluster_role.yaml
-  - deploy/cluster_role_binding.yaml
